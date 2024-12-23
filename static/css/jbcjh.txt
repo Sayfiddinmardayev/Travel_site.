@@ -1,0 +1,7 @@
+.dropdown-menu {
+    display: block;
+    position: absolute;
+    z-index: 1050; /* Bootstrap z-index qiymati */
+    background-color: #fff; /* Orqa fonni ko'rinadigan qilish */
+    color: #000; /* Matn rangi aniq ko'rinadigan bo'lishi uchun */
+}
