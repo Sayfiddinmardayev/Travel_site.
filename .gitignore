@@ -130,3 +130,7 @@ dmypy.json
 ../.idea/
 .idea/
 .DS_Store
+
+# Venv va ma'lumotlar bazasini ignor qilish
+venv/
+db.sqlite3
